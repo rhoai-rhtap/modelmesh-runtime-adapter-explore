@@ -216,7 +216,7 @@ arches:
     sourcerpm: pkgconf-1.4.2-1.el8.src.rpm
   source: []
   module_metadata:
-  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi8/8/x86_64/appstream/os/repodata/63c643dd2125209e1cb99692b19ff020953f2083410f81cd9a4d9ce6e0a69d6d-modules.yaml.gz
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi8/8/x86_64/appstream/os/repodata/98ba74a0b01f0f7e7541b9b6b08f6f0227643d6fb07ae19df1965ee88ca28443-modules.yaml.gz
     repoid: ubi-8-appstream-rpms
     size: 59002
-    checksum: sha256:63c643dd2125209e1cb99692b19ff020953f2083410f81cd9a4d9ce6e0a69d6d
+    checksum: sha256:98ba74a0b01f0f7e7541b9b6b08f6f0227643d6fb07ae19df1965ee88ca28443
